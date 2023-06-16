@@ -120,3 +120,11 @@ background-size: cover;
     display: flex;
     justify-content: center;
 }
+
+.teams{
+    Padding:25px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 36px;
+    background-color: #64c5e5;
+}
