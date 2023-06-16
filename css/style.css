@@ -69,10 +69,7 @@ background-size: cover;
     max-width: 1053px;
     font-size: 24px;
     font-weight: 400;
-    line-height: 45px;
-    
-   
-    
+    line-height: 45px;  
 }
 .content{
     display: flex;
@@ -85,11 +82,9 @@ background-size: cover;
     margin-bottom: 40px;
     font-size: 27px;
     font-weight: 600;
-   
 }
 .content-text-authenticity{
     margin-bottom: 50px;
-   
 }
 
 
@@ -102,18 +97,13 @@ background-size: cover;
 .content-img1{
     
     background-image: url("../img/authenticity.png");
-   
-
 }
 .content-img2{
     
     background-image: url("../img/trustworthy.png");
-   
-
 }
 .content-img3{
-    background-image: url("../img/advance.png");
-   
+    background-image: url("../img/advance.png"); 
 }
 
 .container{
