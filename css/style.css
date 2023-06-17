@@ -4,6 +4,9 @@
     font-family: 'Raleway', sans-serif;
   
 }
+body{
+    margin: 0;
+}
 
 header{
     margin-left: 3%;
@@ -132,7 +135,7 @@ background-size: cover;
 .teams{
     margin-bottom: 72px;
 }
-.teams span{
+.headings{
     margin-top: 60px;
     Padding:25px 25px;
     text-align: center;
@@ -153,9 +156,7 @@ background-size: cover;
     background-color: white;
     position: absolute;
 }
-.team1{
-   
-}
+
 .teams-sub-container{
     display: flex;
     flex-direction: column;
@@ -216,3 +217,28 @@ button{
     
 }
 
+/* our mission section */
+.our-mission-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eff1f7;
+    height: 600px;
+}
+.mission{
+    margin-left:6% ;
+    width: 593px;
+    text-align: center;
+}
+
+.sub-headings{
+    font-size: 22px;
+    line-height: 45px;
+    font-weight: 500;
+    text-align: left;
+}
+.mission-img img{
+    margin-top: 10px;
+    width: 547px;
+    height: 497px;
+}
