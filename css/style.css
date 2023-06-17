@@ -238,7 +238,20 @@ button{
     text-align: left;
 }
 .mission-img img{
-    margin-top: 10px;
+    margin-top: 50px;
     width: 547px;
     height: 497px;
+}
+
+/*  */
+
+.our-expertise{
+    background-color: #2e4369;
+    color: white;
+}
+.expertise-text{
+    margin-right: 50px;
+}
+.expert-img{
+    margin-left: 50px;
 }
